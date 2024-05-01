@@ -497,7 +497,7 @@ ol li::before {
   display: none;
 }
 
-.heart-checkbox:checked ~ .heart-content .hear--default {
+.heart-checkbox:checked ~ .heart-content .heart--default {
   stroke: none;
   fill-opacity: 1;
 }

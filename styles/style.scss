@@ -167,6 +167,8 @@ body{
 }
 }
 
+
+
 .main-container{
     width: 100%;
     min-width: 320px;
@@ -303,6 +305,9 @@ ol li::before{
     font-weight: 500;
     z-index: 1;
 }
+
+
+
 .restaurant-section{
     background-color:$background-lightgrey;
     display: flex;
@@ -422,7 +427,7 @@ ol li::before{
 .heart-checkbox{
     @include input-none;
 }
-.heart-checkbox:checked ~ .heart-content .hear--default{
+.heart-checkbox:checked ~ .heart-content .heart--default{
     stroke: none;
     fill-opacity: 1;
 }
