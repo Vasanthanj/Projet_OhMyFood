@@ -651,7 +651,7 @@ ol li::before {
   display: flex;
   display: block;
   height: 21px;
-  width: 100%;
+  width: 85%;
   font-size: 1.125rem;
   font-weight: 700;
   white-space: nowrap;
@@ -669,7 +669,7 @@ ol li::before {
   display: block;
   box-sizing: border-box;
   height: 19px;
-  width: 100%;
+  width: 85%;
   font-weight: 300;
   font-size: 0.938rem;
   white-space: nowrap;
@@ -804,7 +804,7 @@ ol li::before {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  width: 100%;
+  width: 85%;
   overflow: hidden;
 }
 
